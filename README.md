@@ -2,12 +2,12 @@
 
 Welcome to FlowLink! This project allows users to create custom automation workflows by connecting popular services like Google Drive, Slack, Discord, and Notion. It is designed with usability, flexibility, and seamless integration in mind. Let's dive in! 🌊
 
-Test User: testuser@gmail.com
-Password: 12345678
+🧑‍💻 **Test User:** testUser@gmail.com  
+🔐 **Password:** 12345678
 
-Website Link: 🌐 [FlowLink](https://flow-link.vercel.app/)
+🌐 **Website Link:**  [FlowLink](https://flow-link.vercel.app/)
 
-## 🎥 Video Overview
+## 🎥 Demo Video
 
 
 ## 🛠️ System Diagrams
@@ -21,7 +21,7 @@ Website Link: 🌐 [FlowLink](https://flow-link.vercel.app/)
 - **Integrated Services**: Seamlessly integrate with Google Drive, Slack, Discord, and Notion for a connected automation experience.
 - **Customizable Templates**: Create and test message templates for automated actions, with support for light and dark modes for improved accessibility.
 
-## 📋 Project Structure
+## 🛠 Technologies Used
 - **Front-End**: Built using Next.js 14, Tailwind CSS, and ShadCN UI to create a responsive and visually appealing interface.
 - **Back-End**: Data management with Prisma and Neon databases, along with authentication using Clerk. Stripe is used for billing and payment processing.
 - **Additional Tools**: Google APIs, Uploadcare for file handling, and TSParticles for visual effects.
@@ -29,7 +29,7 @@ Website Link: 🌐 [FlowLink](https://flow-link.vercel.app/)
 ## 🖼️ Screenshots
 
 
-## 💻 Getting Started
+## 🚀 Getting Started
 1. **Clone the repository to your local machine**:
    ```bash
    git clone https://github.com/your-username/FlowLink.git
@@ -48,7 +48,7 @@ Website Link: 🌐 [FlowLink](https://flow-link.vercel.app/)
    ```
 5. **Open your browser and navigate to** `http://localhost:3000` **to view the app**.
 
-## ⚡ Contributions
+## 🤝 Contributions
 Contributions are welcome! If you'd like to contribute to FlowLink, please follow these steps:
 1. **Fork the repository**.
 2. **Create a new branch for your feature or bug fix**.
