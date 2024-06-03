@@ -2,6 +2,17 @@
 
 Welcome to FlowLink! This project allows users to create custom automation workflows by connecting popular services like Google Drive, Slack, Discord, and Notion. It is designed with usability, flexibility, and seamless integration in mind. Let's dive in! 🌊
 
+Test User : testuser@gmail.com
+Password: 12345678
+
+Website Link: https://flow-link.vercel.app/
+
+# Video 
+
+# System Diagrams
+
+
+
 ## 🌟 Key Features
 - **Workflow Automation**: Build custom workflows by connecting nodes on a canvas-based editor, enabling triggers and actions between different services.
 - **Interactive UI**: Experience smooth navigation with features like infinite carousels, mini-maps, translucent navbars, and 3D card animations.
@@ -12,6 +23,10 @@ Welcome to FlowLink! This project allows users to create custom automation workf
 - **Front-End**: Built using Next.js 14, Tailwind CSS, and ShadCN UI to create a responsive and visually appealing interface.
 - **Back-End**: Data management with Prisma and Neon databases, along with authentication using Clerk. Stripe is used for billing and payment processing.
 - **Additional Tools**: Google APIs, Uploadcare for file handling, and TSParticles for visual effects.
+
+## Images
+
+
 
 ## 💻 Getting Started
 1. Clone the repository to your local machine:
