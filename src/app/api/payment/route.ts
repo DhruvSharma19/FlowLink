@@ -29,8 +29,8 @@ export async function POST(req: NextRequest) {
     ],
     mode: "subscription",
     success_url:
-      "https://flow-link.vercel.app//billing?session_id={CHECKOUT_SESSION_ID}",
-    cancel_url: "https://flow-link.vercel.app//billing",
+      "https://flow-link.vercel.app/billing?session_id={CHECKOUT_SESSION_ID}",
+    cancel_url: "https://flow-link.vercel.app/billing",
   });
   return NextResponse.json(session.url);
 }
