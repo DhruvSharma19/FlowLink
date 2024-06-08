@@ -32,7 +32,7 @@ const CopilotFeature = (props: Props) => {
   return (
     <HoverCard backgroundColor = '#7ee787' direction='' left='0'>
     <div className='md:flex flex-col md:space-y-20 flex-1 p-8 sm:p-10 lg:py-16 lg:pl-16 lg:pr-32 justify-between '>
-        <p className=" text-xl md:text-2xl mb-6 font-medium text-[#7d8590]"><span className='text-white font-medium'>Echoverse </span>enhances your team’s productivity, enabling faster and more efficient communication, collaboration, and task completion.</p>
+        <p className=" text-xl md:text-2xl mb-6 font-medium text-[#7d8590]"><span className='text-white font-medium'>FlowLink </span>enhances your team’s productivity, enabling faster and more efficient communication, collaboration, and task completion.</p>
         <div>
             
         </div>
