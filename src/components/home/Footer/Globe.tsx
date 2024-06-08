@@ -13,8 +13,8 @@ const Globe = (props: Props) => {
     <div className='max-w-[1280px] mx-auto relative z-[2]'>
       <div className='flex my-8 md:my-16 sm:my-12 relative md:items-center text-center flex-col'>
           <div className='py-3 mb-2 flex flex-col justify-center items-center'>
-            <h2 className='px-4 mb-4 md:w-9/12 mx-auto lg:text-5xl md:text-4xl text-3xl font-bold text-white'>Echoverse: Where individuals worldwide converge to create anything, anywhere.</h2>
-            <p className="mb-4 md:text-xl text-[16px] text-[#7d8590] px-4 mx-auto md:w-7/12">Whether you&nbsp;re launching a startup or honing your coding skills, Echoverse welcomes you. Join the global community and craft innovations that shape the future. Let&nbsp;s create together.</p>
+            <h2 className='px-4 mb-4 md:w-9/12 mx-auto lg:text-5xl md:text-4xl text-3xl font-bold text-white'>FlowLink: Where automation enthusiasts come together to streamline tasks, everywhere.</h2>
+            <p className="mb-4 md:text-xl text-[16px] text-[#7d8590] px-4 mx-auto md:w-7/12">Whether you&nbsp;re streamlining workflows or diving into automation, FlowLink invites you. Join our vibrant community and revolutionize how you work. Let&nbsp;s automate together.</p>
             <div className='lg:ml-5 text-black flex items-center justify-center lg:space-x-5 max-lg:space-y-3 max-lg:flex-col max-lg:w-full max-lg:mt-5'>
               <a onMouseEnter={() => setHovered(true)} onMouseLeave={() => setHovered(false)} href="/dashboard" className='flex items-center bg-white font-bold px-14 py-3 justify-center rounded-md text-[20px]'>
                 Try it For Free Today

@@ -42,7 +42,7 @@ const Security = (props: Props) => {
                 <h2 className="text-[20px] md:text-2xl mb-7 font-medium text-white js-build-in-item build-in-slideX-left build-in-animate" style={{transitionDelay: '200ms'}}>Security</h2>  
                 <h3 className="text-[28px] md:text-[40px] max-md:leading-8 max-lg:leading-10 lg:text-5xl mb-7 font-medium text-white js-build-in-item build-in-slideX-left build-in-animate" style={{transitionDelay: '300ms'}}>
                     <p className="text-[#939aff]">Integrated security seamlessly.</p>
-                    With Echoverse, users can ensure their interactions are safeguarded effortlessly, while organizations effortlessly maintain compliance with security regulations.
+                    With FlowLink, users can ensure their interactions are safeguarded effortlessly, while organizations effortlessly maintain compliance with security regulations.
                 </h3>
             </motion.div>
         </motion.div>
@@ -61,7 +61,7 @@ const Security = (props: Props) => {
                                         <svg aria-hidden="true" height="24" fill='#3fb950' viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" className="octicon octicon-check-circle-fill color-fg-success mr-2">
                                             <path d="M1 12C1 5.925 5.925 1 12 1s11 4.925 11 11-4.925 11-11 11S1 18.075 1 12Zm16.28-2.72a.751.751 0 0 0-.018-1.042.751.751 0 0 0-1.042-.018l-5.97 5.97-2.47-2.47a.751.751 0 0 0-1.042.018.751.751 0 0 0-.018 1.042l3 3a.75.75 0 0 0 1.06 0Z"></path>
                                         </svg>
-                                        <span className="font-medium text-white">Message Sent</span>
+                                        <span className="font-medium text-white">Build</span>
                                     </div>
                                     <span className="text-[14px] text-[#7d8590]">121ms</span>
                                 </li>
