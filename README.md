@@ -2,8 +2,8 @@
 
 Welcome to FlowLink! This project allows users to create custom automation workflows by connecting popular services like Google Drive, Slack, Discord, and Notion. It is designed with usability, flexibility, and seamless integration in mind. Let's dive in! 🌊
 
-🧑‍💻 **Test User:** testUser@gmail.com  
-🔐 **Password:** 12345678
+<!-- 🧑‍💻 **Test User:** testUser@gmail.com  
+🔐 **Password:** 12345678 -->
 
 🌐 **Website Link:**  [FlowLink](https://flow-link.vercel.app/)
 
