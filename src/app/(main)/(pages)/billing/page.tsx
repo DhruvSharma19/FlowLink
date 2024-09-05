@@ -31,8 +31,8 @@ const Billing = async (props: Props) => {
             session.data[0].description == 'Unlimited'
               ? 'Unlimited'
               : session.data[0].description == 'Pro'
-              ? '100'
-              : '10',
+                ? '100'
+                : '10',
         },
       })
     }

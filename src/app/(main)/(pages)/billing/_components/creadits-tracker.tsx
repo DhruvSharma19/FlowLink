@@ -18,8 +18,8 @@ const CreditTracker = ({ credits, tier }: Props) => {
               tier == 'Free'
                 ? credits * 10
                 : tier == 'Unlimited'
-                ? 100
-                : credits
+                  ? 100
+                  : credits
             }
             className="w-full"
           />

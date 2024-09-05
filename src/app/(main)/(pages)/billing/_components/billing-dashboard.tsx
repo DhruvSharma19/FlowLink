@@ -63,19 +63,19 @@ const BillingDashboard = (props: Props) => {
           </svg>
         </div>
       ) : ( */}
-        <>
-          <div className="flex gap-5 p-6">
-            <SubscriptionCard
-              onPayment={onPayment}
-              tier={tier}
-              products={stripeProducts}
-            />
-          </div>
-          <CreditTracker
+      <>
+        <div className="flex gap-5 p-6">
+          <SubscriptionCard
+            onPayment={onPayment}
             tier={tier}
-            credits={parseInt(credits)}
+            products={stripeProducts}
           />
-        </>
+        </div>
+        <CreditTracker
+          tier={tier}
+          credits={parseInt(credits)}
+        />
+      </>
       {/* )} */}
     </>
   )
