@@ -24,7 +24,7 @@ https://github.com/DhruvSharma19/FlowLink/assets/112254552/e83e0502-e957-49af-81
 - **Integrated Services**: Seamlessly integrate with Google Drive, Slack, Discord, and Notion for a connected automation experience.
 - **Customizable Templates**: Create and test message templates for automated actions, with support for light and dark modes for improved accessibility.
 
-## 🛠 Technologies Used
+## Technologies Used
 
 **Front-End**:
 - **Next.js 14**: Employed for efficient server-side rendering and routing, ensuring fast loading times and smooth navigation. 
