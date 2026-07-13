@@ -144,4 +144,4 @@ We appreciate your contributions and will review your pull request as soon as po
 
 A big thank you to everyone who contributed to this project! We appreciate your support and feedback.
 
-If you have any questions or need assistance, feel free to open an issue or reach out to the project maintainers. Enjoy using FlowLink and happy coding! ✨
+If you have any questions or need assistance, feel free to open an issue or reach out to the project maintainers. Enjoy using FlowLink and happy coding!
